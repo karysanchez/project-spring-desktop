@@ -1,4 +1,4 @@
-package com.karosanpu.project_spring_desktop;
+package com.karosanpu.projectspringdesktop.test;
 
 import static org.junit.Assert.assertTrue;
 
